@@ -1,0 +1,6 @@
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/input/landseamask.mgrd 
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/input/landseamask.nc 
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/input/landseamask.prj 
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/input/landseamask.sdat 
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/input/landseamask.sdat.aux.xml 
+https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/input/landseamask.sgrd 
